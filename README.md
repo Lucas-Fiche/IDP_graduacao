@@ -8,6 +8,8 @@
   - 🚀 Projetos iniciais para consolidar o aprendizado.
 
 **Diagrama**:
+
+'''
 .
 ├── primeiro_semestre
 │   └── algoritmos_LP
@@ -16,6 +18,7 @@
     ├── pds
     ├── poo
     └── tecnicas
+'''
 
 ## 🔄 Atualizações
 
