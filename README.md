@@ -8,8 +8,7 @@
   - 🚀 Projetos iniciais para consolidar o aprendizado.
 
 **Diagrama**:
-
-'''
+```
 .
 ├── primeiro_semestre
 │   └── algoritmos_LP
@@ -18,8 +17,7 @@
     ├── pds
     ├── poo
     └── tecnicas
-'''
-
+```
 ## 🔄 Atualizações
 
 Este repositório será atualizado continuamente conforme avanço nos semestres e adiciono novos conteúdos. Ele serve como um registro do meu desenvolvimento acadêmico na área de Ciência da Computação, documentando meu progresso e as habilidades adquiridas.
