@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro - Hotel Carioca</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="page-secondary">
+    <header>
+        <img src="imagens/logo.png" alt="Logo do Hotel" width="10%">
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="reserva.html">Reserva</a>
+        <a href="hospede.html">Já sou Hóspede</a>
+        <a href="faleconosco.html">Fale Conosco</a>
+        <a href="ajuda.html">Ajuda</a>
+    </nav>
+    <main>
+        <h1>Cadastre-se</h1>
+        <form onsubmit="return validarCadastro()">
+            <label for="nomeCadastro">Nome:</label>
+            <input type="text" id="nomeCadastro" name="Nome" required>
+
+            <label for="sobrenomeCadastro">Sobrenome:</label>
+            <input type="text" id="sobrenomeCadastro" name="Sobrenome" required>
+
+            <label for="emailCadastro">E-mail:</label>
+            <input type="email" id="emailCadastro" name="E-mail" required>
+
+            <label for="senhaCadastro">Senha:</label>
+            <input type="password" id="senhaCadastro" name="Senha" required>
+
+            <label for="confirmarSenha">Confirmar Senha:</label>
+            <input type="password" id="confirmarSenha" name="Confirmar Senha" required>
+
+            <input type="submit" value="Cadastrar">
+
+            <p>Já tem uma conta? <a href="hospede.html">Faça login aqui</a></p>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

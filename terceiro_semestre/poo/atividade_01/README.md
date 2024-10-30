@@ -1,0 +1,2 @@
+# calculo_impostos-poo
+Código em Java que foi desenvolvido para calcular os impostos IPI (Imposto sobre Produtos Industrializados), ICMS (Imposto sobre Circulação de Mercadorias e Serviços) e ISS (Imposto sobre Serviços). Ele é capaz de identificar se um serviço ou produto se enquadra nas regras específicas de cada um desses impostos e, com base nisso, realizar o cálculo correto dos valores devidos.
