@@ -8,7 +8,7 @@ Bem-vindo ao repositório da disciplina de **Processo de Desenvolvimento de Soft
 
 Este projeto é uma demonstração prática em Java do padrão arquitetural **MVC (Model-View-Controller)** , essencial para a organização de aplicações complexas.
 
-### 🏨 Trabalho 01: Desenvolvimento de um Sistema para Hotel
+### 2. Trabalho 01: Desenvolvimento de um Sistema para Hotel 🏨
 
  O **Trabalho 01** consiste no desenvolvimento completo de um sistema para gerenciamento de um hotel. Este projeto aplicou conceitos de metodologias ágeis e de desenvolvimento de software em todas as fases, desde o planejamento inicial até a implementação e design do site.
 
