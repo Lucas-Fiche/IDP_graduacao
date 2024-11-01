@@ -7,7 +7,7 @@ Este repositório contém as implementações e materiais desenvolvidos durante 
 Os arquivos estão divididos por atividades, facilitando a navegação e o estudo dos conteúdos abordados:
 
 ```
-/Atividades
+/machinelearning
   ├── ml_atividade01.py
   ├── ml_atividade02.py
   ├── ml_atividade03.py
