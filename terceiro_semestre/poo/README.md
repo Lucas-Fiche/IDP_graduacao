@@ -24,7 +24,7 @@ O repositório está organizado da seguinte maneira:
 
 ```
 
-📝 Descrição dos Diretórios
+### 📝 Descrição dos Diretórios
 <ul>
     <li>atividade_01 a atividade_XYZ: Diretórios que contêm exercícios práticos e desafios realizados ao longo do semestre,     abordando conceitos como classes, objetos, herança, polimorfismo, encapsulamento, entre outros.
     <li>atividade_sala: Códigos e exemplos práticos feitos durante as aulas.
