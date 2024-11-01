@@ -18,8 +18,10 @@ README.md
 ### 🛠️ Tecnologias e Bibliotecas Utilizadas
 #### Linguagem: Python 🐍
 #### Bibliotecas:
-scikit-learn
-pandas
-numpy
-matplotlib
-seaborn
+<ul>
+    <li>scikit-learn</li>
+    <li>pandas</li>
+    <li>numpy</li>
+    <li>matplotlib</li>
+    <li>seaborn</li>
+</ul>
