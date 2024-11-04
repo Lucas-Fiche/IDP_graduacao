@@ -13,17 +13,17 @@ O repositório está organizado em duas principais pastas, de acordo com a lingu
   │   │   ├── codigo.cpp
   │   │   ├── resposta.png
   │   │   └── questao.png
-  │   ├── exercicio2/
+  │   ├── exercicio002/
   │   │   ├── codigo.cpp
   │   │   ├── resposta.png
   │   │   └── questao.png
   │   └── ...
   └── atividades_python/
-      ├── exercicio1/
+      ├── exercicio001/
       │   ├── codigo.py
       │   ├── resposta.png
       │   └── questao.png
-      ├── exercicio2/
+      ├── exercicio002/
       │   ├── codigo.py
       │   ├── resposta.png
       │   └── questao.png
