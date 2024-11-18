@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/idp_graduacao.iml" filepath="$PROJECT_DIR$/.idea/idp_graduacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terceiro_semestre/pds/pds.iml" filepath="$PROJECT_DIR$/terceiro_semestre/pds/pds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terceiro_semestre/poo/poo.iml" filepath="$PROJECT_DIR$/terceiro_semestre/poo/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terceiro_semestre/terceiro_semestre.iml" filepath="$PROJECT_DIR$/terceiro_semestre/terceiro_semestre.iml" />
+    </modules>
+  </component>
+</project>
